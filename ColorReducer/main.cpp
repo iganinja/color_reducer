@@ -202,7 +202,7 @@ int main(int argumentNumber, char *arguments[])
     if(argumentNumber != 5)
     {
         std::cout << "color_reducer 1.0\n";
-        std::cout << "Takes an input image, a palette image and creates a new image with palette's closest colors using provided maximum number of them\n";
+        std::cout << "It takes an input image, a palette image and creates a new image with palette's closest colors using provided maximum number of them\n";
         std::cout << "Usage: color_reducer input_file_name palette_image_file maximum_color_number output_file_name\n";
         std::cout << "Example: color_reducer main_menu.png sms_palette.png 16 main_menu_16.png\n";
 
