@@ -9,7 +9,7 @@ This call takes main_menu.png file and creates a new file (main_menu_16.png) whe
 
 It uses lodepng to load png files: http://lodev.org/lodepng/
 
-Color reduces license:
+Color Reducer license:
 
 MIT License
 
